@@ -10,7 +10,7 @@
 
 ## 🔭 Currently Building
 💡 **Semantic Search for the *"Why"* Behind Code**  
-A developer tool that goes beyond *"what does this code do?"* to explain the decisions the led to the **why** it exists
+A developer tool that goes beyond *"what does this code do?"* to explain the decisions the led to **why** it exists
 
 **Tech:** `Python` · `Vector Databases` · `LangChain` · `NLP` · `Embeddings`
 

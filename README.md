@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hey, I'm Aaron Meslin</h1>
+<h1 align="center"> Hey, I'm Aaron Meslin</h1>
 <p align="center">
   🚀 Computer Science @ <b>University of Pennsylvania</b> (Class of 2028) <br>
   💡 Passionate about AI, full-stack development, and trading<br>

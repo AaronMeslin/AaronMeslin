@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h1 align="center"> Hey, I'm Aaron Meslin</h1>
 <p align="center">
-  🚀 Computer Science @ <b>University of Pennsylvania</b>
+  🚀 Computer Science @ <b>University of Pennsylvania</b> <br>
   💡 Passionate about AI, full-stack development, and trading<br>
   📍 Philadelphia, PA 
 </p>

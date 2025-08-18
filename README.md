@@ -48,7 +48,7 @@ A developer tool that goes beyond *"what does this code do?"* to explain the dec
 ---
 
 ## 🚀 Featured Projects
-- **Hamming (7,4) ** - Encoding/Decoding + Fano Plane Visualizer 
+- **Hamming (7,4)** - Encoding/Decoding + Fano Plane Visualizer 
 - **T.AI** – AI Teaching Assistant using OCR & grading rubrics; projected to cut TA costs by **82%**  
 - **Hit The Brakes** – Mobile game with 2,500+ downloads & global leaderboards  
 - **Sand Spider** – Patent-pending beach umbrella stabilizer invention  
